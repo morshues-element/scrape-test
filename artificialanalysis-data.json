@@ -5,8 +5,8 @@
       "name": "Recraft V3",
       "arena_selection_rate": 0.703,
       "quality_elo": 1141.04,
-      "arena_selections": 71653,
-      "appearances": 110621,
+      "arena_selections": 71663,
+      "appearances": 110633,
       "arena_elos": {
         "total": {
           "elo": 1141.04,
@@ -633,8 +633,8 @@
       "name": "FLUX1.1 [pro]",
       "arena_selection_rate": 0.669,
       "quality_elo": 1112.72,
-      "arena_selections": 78396,
-      "appearances": 128586,
+      "arena_selections": 78402,
+      "appearances": 128594,
       "arena_elos": {
         "total": {
           "elo": 1112.72,
@@ -1261,8 +1261,8 @@
       "name": "Imagen 3 (v002)",
       "arena_selection_rate": 0.669,
       "quality_elo": 1111.85,
-      "arena_selections": 11225,
-      "appearances": 16797,
+      "arena_selections": 11232,
+      "appearances": 16808,
       "arena_elos": {
         "total": {
           "elo": 1111.85,
@@ -1879,8 +1879,8 @@
       "name": "FLUX.1 [pro]",
       "arena_selection_rate": 0.654,
       "quality_elo": 1097.34,
-      "arena_selections": 83796,
-      "appearances": 138742,
+      "arena_selections": 83805,
+      "appearances": 138754,
       "arena_elos": {
         "total": {
           "elo": 1097.34,
@@ -2507,8 +2507,8 @@
       "name": "Midjourney v6.1",
       "arena_selection_rate": 0.628,
       "quality_elo": 1078.6,
-      "arena_selections": 80241,
-      "appearances": 136694,
+      "arena_selections": 80248,
+      "appearances": 136705,
       "arena_elos": {
         "total": {
           "elo": 1078.6,
@@ -3135,8 +3135,8 @@
       "name": "FLUX.1 [dev]",
       "arena_selection_rate": 0.625,
       "quality_elo": 1075.42,
-      "arena_selections": 79704,
-      "appearances": 137017,
+      "arena_selections": 79712,
+      "appearances": 137028,
       "arena_elos": {
         "total": {
           "elo": 1075.42,
@@ -3763,8 +3763,8 @@
       "name": "Ideogram v2",
       "arena_selection_rate": 0.622,
       "quality_elo": 1074.11,
-      "arena_selections": 79417,
-      "appearances": 136788,
+      "arena_selections": 79422,
+      "appearances": 136799,
       "arena_elos": {
         "total": {
           "elo": 1074.11,
@@ -4391,8 +4391,8 @@
       "name": "Midjourney v6",
       "arena_selection_rate": 0.64,
       "quality_elo": 1072.29,
-      "arena_selections": 97658,
-      "appearances": 162519,
+      "arena_selections": 97662,
+      "appearances": 162526,
       "arena_elos": {
         "total": {
           "elo": 1072.29,
@@ -5019,8 +5019,8 @@
       "name": "Ideogram v2 Turbo",
       "arena_selection_rate": 0.61,
       "quality_elo": 1066.28,
-      "arena_selections": 78703,
-      "appearances": 137495,
+      "arena_selections": 78708,
+      "appearances": 137506,
       "arena_elos": {
         "total": {
           "elo": 1066.28,
@@ -5647,8 +5647,8 @@
       "name": "Stable Diffusion 3.5 Large Turbo",
       "arena_selection_rate": 0.607,
       "quality_elo": 1064.63,
-      "arena_selections": 70714,
-      "appearances": 122714,
+      "arena_selections": 70721,
+      "appearances": 122724,
       "arena_elos": {
         "total": {
           "elo": 1064.63,
@@ -6275,8 +6275,8 @@
       "name": "Stable Diffusion 3.5 Large",
       "arena_selection_rate": 0.602,
       "quality_elo": 1060.83,
-      "arena_selections": 70461,
-      "appearances": 123037,
+      "arena_selections": 70466,
+      "appearances": 123045,
       "arena_elos": {
         "total": {
           "elo": 1060.83,
@@ -6903,8 +6903,8 @@
       "name": "Luma Photon",
       "arena_selection_rate": 0.597,
       "quality_elo": 1058.36,
-      "arena_selections": 8657,
-      "appearances": 14491,
+      "arena_selections": 8663,
+      "appearances": 14502,
       "arena_elos": {
         "total": {
           "elo": 1058.36,
@@ -7531,8 +7531,8 @@
       "name": "Ideogram v1",
       "arena_selection_rate": 0.594,
       "quality_elo": 1054.46,
-      "arena_selections": 78509,
-      "appearances": 139560,
+      "arena_selections": 78514,
+      "appearances": 139569,
       "arena_elos": {
         "total": {
           "elo": 1054.46,
@@ -8157,10 +8157,10 @@
     {
       "id": "65f37105-427a-4f10-af5c-b001e59024a6",
       "name": "Phoenix 1.0 Ultra",
-      "arena_selection_rate": 0.584,
+      "arena_selection_rate": 0.585,
       "quality_elo": 1051.62,
-      "arena_selections": 2273,
-      "appearances": 3893,
+      "arena_selections": 2298,
+      "appearances": 3926,
       "arena_elos": {
         "total": {
           "elo": 1051.62,
@@ -8787,8 +8787,8 @@
       "name": "Stable Diffusion 3 Large",
       "arena_selection_rate": 0.604,
       "quality_elo": 1047.3,
-      "arena_selections": 90215,
-      "appearances": 157416,
+      "arena_selections": 90225,
+      "appearances": 157431,
       "arena_elos": {
         "total": {
           "elo": 1047.3,
@@ -9415,8 +9415,8 @@
       "name": "FLUX.1 [schnell]",
       "arena_selection_rate": 0.569,
       "quality_elo": 1033.78,
-      "arena_selections": 76484,
-      "appearances": 139922,
+      "arena_selections": 76494,
+      "appearances": 139936,
       "arena_elos": {
         "total": {
           "elo": 1033.78,
@@ -10043,8 +10043,8 @@
       "name": "Playground v3 (beta)",
       "arena_selection_rate": 0.563,
       "quality_elo": 1031.14,
-      "arena_selections": 76245,
-      "appearances": 140769,
+      "arena_selections": 76249,
+      "appearances": 140780,
       "arena_elos": {
         "total": {
           "elo": 1031.14,
@@ -10671,8 +10671,8 @@
       "name": "Phoenix 0.9 Ultra",
       "arena_selection_rate": 0.552,
       "quality_elo": 1024.65,
-      "arena_selections": 48854,
-      "appearances": 91831,
+      "arena_selections": 48861,
+      "appearances": 91843,
       "arena_elos": {
         "total": {
           "elo": 1024.65,
@@ -11299,8 +11299,8 @@
       "name": "Phoenix 1.0 Fast",
       "arena_selection_rate": 0.546,
       "quality_elo": 1020.67,
-      "arena_selections": 2189,
-      "appearances": 4032,
+      "arena_selections": 2206,
+      "appearances": 4069,
       "arena_elos": {
         "total": {
           "elo": 1020.67,
@@ -11927,8 +11927,8 @@
       "name": "Recraft 20B",
       "arena_selection_rate": 0.535,
       "quality_elo": 1009.94,
-      "arena_selections": 69994,
-      "appearances": 133275,
+      "arena_selections": 69996,
+      "appearances": 133281,
       "arena_elos": {
         "total": {
           "elo": 1009.94,
@@ -12555,8 +12555,8 @@
       "name": "Luma Photon Flash",
       "arena_selection_rate": 0.515,
       "quality_elo": 995.17,
-      "arena_selections": 12790,
-      "appearances": 24856,
+      "arena_selections": 12793,
+      "appearances": 24869,
       "arena_elos": {
         "total": {
           "elo": 995.17,
@@ -13183,8 +13183,8 @@
       "name": "Playground v2.5",
       "arena_selection_rate": 0.528,
       "quality_elo": 988.75,
-      "arena_selections": 83988,
-      "appearances": 161415,
+      "arena_selections": 83995,
+      "appearances": 161429,
       "arena_elos": {
         "total": {
           "elo": 988.75,
@@ -13811,8 +13811,8 @@
       "name": "Lumina Image v2",
       "arena_selection_rate": 0.495,
       "quality_elo": 982.95,
-      "arena_selections": 5343,
-      "appearances": 10793,
+      "arena_selections": 5362,
+      "appearances": 10829,
       "arena_elos": {
         "total": {
           "elo": 982.95,
@@ -14439,8 +14439,8 @@
       "name": "Adobe Firefly 3",
       "arena_selection_rate": 0.489,
       "quality_elo": 975.09,
-      "arena_selections": 59195,
-      "appearances": 119903,
+      "arena_selections": 59201,
+      "appearances": 119914,
       "arena_elos": {
         "total": {
           "elo": 975.09,
@@ -15067,8 +15067,8 @@
       "name": "DALLE 3 HD",
       "arena_selection_rate": 0.508,
       "quality_elo": 974.24,
-      "arena_selections": 81970,
-      "appearances": 162265,
+      "arena_selections": 81975,
+      "appearances": 162275,
       "arena_elos": {
         "total": {
           "elo": 974.24,
@@ -15695,8 +15695,8 @@
       "name": "DALLE 3",
       "arena_selection_rate": 0.489,
       "quality_elo": 959.92,
-      "arena_selections": 79934,
-      "appearances": 162562,
+      "arena_selections": 79937,
+      "appearances": 162571,
       "arena_elos": {
         "total": {
           "elo": 959.92,
@@ -16323,8 +16323,8 @@
       "name": "Stable Diffusion 3 Medium",
       "arena_selection_rate": 0.448,
       "quality_elo": 936.19,
-      "arena_selections": 69126,
-      "appearances": 148754,
+      "arena_selections": 69129,
+      "appearances": 148763,
       "arena_elos": {
         "total": {
           "elo": 936.19,
@@ -16951,8 +16951,8 @@
       "name": "Amazon Titan G1 v2 (Standard)",
       "arena_selection_rate": 0.442,
       "quality_elo": 932.7,
-      "arena_selections": 68084,
-      "appearances": 147991,
+      "arena_selections": 68091,
+      "appearances": 148000,
       "arena_elos": {
         "total": {
           "elo": 932.7,
@@ -17579,8 +17579,8 @@
       "name": "Stable Diffusion 3 Large Turbo",
       "arena_selection_rate": 0.445,
       "quality_elo": 929.67,
-      "arena_selections": 73029,
-      "appearances": 158329,
+      "arena_selections": 73037,
+      "appearances": 158347,
       "arena_elos": {
         "total": {
           "elo": 929.67,
@@ -18208,7 +18208,7 @@
       "arena_selection_rate": 0.429,
       "quality_elo": 918.22,
       "arena_selections": 70845,
-      "appearances": 157086,
+      "appearances": 157094,
       "arena_elos": {
         "total": {
           "elo": 918.22,
@@ -18835,8 +18835,8 @@
       "name": "Amazon Titan G1 (Standard)",
       "arena_selection_rate": 0.419,
       "quality_elo": 913.77,
-      "arena_selections": 67739,
-      "appearances": 151499,
+      "arena_selections": 67741,
+      "appearances": 151505,
       "arena_elos": {
         "total": {
           "elo": 913.77,
@@ -19463,8 +19463,8 @@
       "name": "SDXL Lightning",
       "arena_selection_rate": 0.417,
       "quality_elo": 906.83,
-      "arena_selections": 71149,
-      "appearances": 161702,
+      "arena_selections": 71153,
+      "appearances": 161714,
       "arena_elos": {
         "total": {
           "elo": 906.83,
@@ -20091,8 +20091,8 @@
       "name": "Stable Diffusion XL 1.0",
       "arena_selection_rate": 0.384,
       "quality_elo": 882.23,
-      "arena_selections": 67766,
-      "appearances": 161938,
+      "arena_selections": 67769,
+      "appearances": 161952,
       "arena_elos": {
         "total": {
           "elo": 882.23,
@@ -20719,8 +20719,8 @@
       "name": "DALLE 2",
       "arena_selection_rate": 0.224,
       "quality_elo": 746.74,
-      "arena_selections": 65948,
-      "appearances": 208283,
+      "arena_selections": 65950,
+      "appearances": 208291,
       "arena_elos": {
         "total": {
           "elo": 746.74,
@@ -21347,8 +21347,8 @@
       "name": "Stable Diffusion 2.1",
       "arena_selection_rate": 0.223,
       "quality_elo": 744.4,
-      "arena_selections": 66022,
-      "appearances": 208589,
+      "arena_selections": 66025,
+      "appearances": 208600,
       "arena_elos": {
         "total": {
           "elo": 744.4,
@@ -21975,8 +21975,8 @@
       "name": "Janus Pro",
       "arena_selection_rate": 0.192,
       "quality_elo": 725.22,
-      "arena_selections": 3940,
-      "appearances": 20412,
+      "arena_selections": 3945,
+      "appearances": 20445,
       "arena_elos": {
         "total": {
           "elo": 725.22,
@@ -22603,8 +22603,8 @@
       "name": "Stable Diffusion 1.5",
       "arena_selection_rate": 0.155,
       "quality_elo": 656.22,
-      "arena_selections": 37078,
-      "appearances": 140605,
+      "arena_selections": 37079,
+      "appearances": 140612,
       "arena_elos": {
         "total": {
           "elo": 656.22,
