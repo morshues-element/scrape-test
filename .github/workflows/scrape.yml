@@ -37,7 +37,7 @@ jobs:
           path: ./.venv
           key: venv-${{ hashFiles('poetry.lock') }}
       - name: Install the project dependencies
-        run: poetry install
+        run: poetry install --no-root
       - name: Install Playwright dependencies
         run: |
           shot-scraper install
