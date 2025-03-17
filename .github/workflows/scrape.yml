@@ -11,10 +11,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v4
+      - name: Install poetry
+        uses: abatilo/actions-poetry@v4
+      - name: Setup a local virtual environment (if no poetry.toml file)
+        run: |
+          poetry config virtualenvs.create true --local
+          poetry config virtualenvs.in-project true --local
+      - uses: actions/cache@v3
+        name: Define a cache for the virtual environment based on the dependencies lock file
+        with:
+          path: ./.venv
+          key: venv-${{ hashFiles('poetry.lock') }}
+      - name: Install the project dependencies
+        run: poetry install
+      - name: Install Playwright dependencies
+        run: |
+          shot-scraper install
+
       - name: Fetch latest data
         run: |-
-          curl 'https://artificialanalysis.ai/api/text-to-image/arena/preferences/retrieve?user_key=total' | jq . > artificialanalysis-data.json
+          poetry run shot-scraper javascript \
+          "https://artificialanalysis.ai/api/text-to-image/arena/preferences/retrieve?user_key=total" \
+          -i artificialanalysis-script.js -o artificialanalysis-data.json
       - name: Commit and push if it changed
         run: |-
           git config user.name "Automated"
