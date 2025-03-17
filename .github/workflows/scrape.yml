@@ -16,6 +16,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright/
+          key: ${{ runner.os }}-browsers
       - name: Run Poetry image
         uses: abatilo/actions-poetry@v3
         with:
@@ -31,11 +36,6 @@ jobs:
         with:
           path: ./.venv
           key: venv-${{ hashFiles('poetry.lock') }}
-      - name: Cache Playwright browsers
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright/
-          key: ${{ runner.os }}-browsers
       - name: Install the project dependencies
         run: poetry install
       - name: Install Playwright dependencies

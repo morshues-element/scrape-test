@@ -4,6 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Morshues Lai <ml@discoverelement.com>"]
 readme = "README.md"
+packages = [{include = "scrape_test"}]
 
 [tool.poetry.dependencies]
 python = "^3.13"
