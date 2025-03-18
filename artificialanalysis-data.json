@@ -1,356 +1,356 @@
 {
-    "timestamp": 1742328761468,
+    "timestamp": 1742332291126,
     "data": [
         {
             "creator": "Recraft AI",
             "model_name": "Recraft V3",
             "ranking": 1,
-            "arena_elo": 1142.25,
+            "arena_elo": 1141.87,
             "arena_win_rate": 0.703,
             "selections": 71752,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Black Forest Labs",
             "model_name": "FLUX1.1 [pro]",
             "ranking": 2,
-            "arena_elo": 1114,
+            "arena_elo": 1113.59,
             "arena_win_rate": 0.669,
             "selections": 78484,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Google",
             "model_name": "Imagen 3 (v002)",
             "ranking": 3,
-            "arena_elo": 1113.16,
+            "arena_elo": 1112.92,
             "arena_win_rate": 0.669,
             "selections": 11335,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Black Forest Labs",
             "model_name": "FLUX.1 [pro]",
             "ranking": 4,
-            "arena_elo": 1098.69,
+            "arena_elo": 1098.29,
             "arena_win_rate": 0.654,
             "selections": 83897,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Midjourney",
             "model_name": "Midjourney v6.1",
             "ranking": 5,
-            "arena_elo": 1079.9,
+            "arena_elo": 1079.53,
             "arena_win_rate": 0.628,
             "selections": 80347,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Black Forest Labs",
             "model_name": "FLUX.1 [dev]",
             "ranking": 6,
-            "arena_elo": 1076.7,
+            "arena_elo": 1076.33,
             "arena_win_rate": 0.625,
             "selections": 79808,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Ideogram",
             "model_name": "Ideogram v2",
             "ranking": 7,
-            "arena_elo": 1075.41,
+            "arena_elo": 1075.02,
             "arena_win_rate": 0.622,
             "selections": 79513,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Midjourney",
             "model_name": "Midjourney v6",
             "ranking": 8,
-            "arena_elo": 1073.46,
+            "arena_elo": 1073.08,
             "arena_win_rate": 0.64,
             "selections": 97739,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Ideogram",
             "model_name": "Ideogram v2 Turbo",
             "ranking": 9,
-            "arena_elo": 1067.55,
+            "arena_elo": 1067.17,
             "arena_win_rate": 0.61,
             "selections": 78800,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 3.5 Large Turbo",
             "ranking": 10,
-            "arena_elo": 1065.88,
+            "arena_elo": 1065.47,
             "arena_win_rate": 0.607,
             "selections": 70790,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 3.5 Large",
             "ranking": 11,
-            "arena_elo": 1062.11,
+            "arena_elo": 1061.71,
             "arena_win_rate": 0.602,
             "selections": 70554,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Bytedance",
             "model_name": "Infinity 8B",
             "ranking": 12,
-            "arena_elo": 1061.5,
+            "arena_elo": 1060.64,
             "arena_win_rate": 0.599,
             "selections": 885,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Luma Labs",
             "model_name": "Luma Photon",
             "ranking": 13,
-            "arena_elo": 1059.95,
+            "arena_elo": 1059.58,
             "arena_win_rate": 0.597,
             "selections": 8757,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Ideogram",
             "model_name": "Ideogram v1",
             "ranking": 14,
-            "arena_elo": 1055.74,
+            "arena_elo": 1055.37,
             "arena_win_rate": 0.594,
             "selections": 78604,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": " Leonardo.Ai",
             "model_name": "Phoenix 1.0 Ultra",
             "ranking": 15,
-            "arena_elo": 1055.28,
+            "arena_elo": 1053.92,
             "arena_win_rate": 0.586,
             "selections": 2474,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 3 Large",
             "ranking": 16,
-            "arena_elo": 1048.56,
+            "arena_elo": 1048.14,
             "arena_win_rate": 0.604,
             "selections": 90294,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Black Forest Labs",
             "model_name": "FLUX.1 [schnell]",
             "ranking": 17,
-            "arena_elo": 1035.1,
+            "arena_elo": 1034.7,
             "arena_win_rate": 0.569,
             "selections": 76581,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Playground AI",
             "model_name": "Playground v3 (beta)",
             "ranking": 18,
-            "arena_elo": 1032.37,
+            "arena_elo": 1032,
             "arena_win_rate": 0.563,
             "selections": 76333,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": " Leonardo.Ai",
             "model_name": "Phoenix 0.9 Ultra",
             "ranking": 19,
-            "arena_elo": 1025.98,
+            "arena_elo": 1025.58,
             "arena_win_rate": 0.552,
             "selections": 48944,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": " Leonardo.Ai",
             "model_name": "Phoenix 1.0 Fast",
             "ranking": 20,
-            "arena_elo": 1019.7,
+            "arena_elo": 1019.19,
             "arena_win_rate": 0.542,
             "selections": 2424,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Recraft AI",
             "model_name": "Recraft 20B",
             "ranking": 21,
-            "arena_elo": 1011.19,
+            "arena_elo": 1010.79,
             "arena_win_rate": 0.535,
             "selections": 70065,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Luma Labs",
             "model_name": "Luma Photon Flash",
             "ranking": 22,
-            "arena_elo": 996.53,
+            "arena_elo": 996.09,
             "arena_win_rate": 0.515,
             "selections": 12865,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Google",
             "model_name": "Gemini 2.0 Flash Experimental",
             "ranking": 23,
-            "arena_elo": 996.5,
+            "arena_elo": 994.55,
             "arena_win_rate": 0.497,
             "selections": 317,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Playground AI",
             "model_name": "Playground v2.5",
             "ranking": 24,
-            "arena_elo": 990,
+            "arena_elo": 989.6,
             "arena_win_rate": 0.528,
             "selections": 84055,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "OpenGVLab",
             "model_name": "Lumina Image v2",
             "ranking": 25,
-            "arena_elo": 984.9,
+            "arena_elo": 984.61,
             "arena_win_rate": 0.496,
             "selections": 5512,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Adobe",
             "model_name": "Adobe Firefly 3",
             "ranking": 26,
-            "arena_elo": 976.36,
+            "arena_elo": 975.96,
             "arena_win_rate": 0.489,
             "selections": 59277,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "OpenAI",
             "model_name": "DALLE 3 HD",
             "ranking": 27,
-            "arena_elo": 975.47,
+            "arena_elo": 975.06,
             "arena_win_rate": 0.508,
             "selections": 82048,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "OpenAI",
             "model_name": "DALLE 3",
             "ranking": 28,
-            "arena_elo": 961.14,
+            "arena_elo": 960.73,
             "arena_win_rate": 0.489,
             "selections": 79996,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 3 Medium",
             "ranking": 29,
-            "arena_elo": 937.44,
+            "arena_elo": 937.04,
             "arena_win_rate": 0.448,
             "selections": 69190,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Amazon",
             "model_name": "Amazon Titan G1 v2 (Standard)",
             "ranking": 30,
-            "arena_elo": 933.93,
+            "arena_elo": 933.54,
             "arena_win_rate": 0.442,
             "selections": 68139,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 3 Large Turbo",
             "ranking": 31,
-            "arena_elo": 930.94,
+            "arena_elo": 930.53,
             "arena_win_rate": 0.445,
             "selections": 73103,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 1.6",
             "ranking": 32,
-            "arena_elo": 919.53,
+            "arena_elo": 919.12,
             "arena_win_rate": 0.429,
             "selections": 70907,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Amazon",
             "model_name": "Amazon Titan G1 (Standard)",
             "ranking": 33,
-            "arena_elo": 915.04,
+            "arena_elo": 914.65,
             "arena_win_rate": 0.419,
             "selections": 67804,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "SDXL Lightning",
             "ranking": 34,
-            "arena_elo": 908.11,
+            "arena_elo": 907.72,
             "arena_win_rate": 0.417,
             "selections": 71208,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion XL 1.0",
             "ranking": 35,
-            "arena_elo": 883.45,
+            "arena_elo": 883.05,
             "arena_win_rate": 0.384,
             "selections": 67822,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "OpenAI",
             "model_name": "DALLE 2",
             "ranking": 36,
-            "arena_elo": 747.99,
+            "arena_elo": 747.6,
             "arena_win_rate": 0.224,
             "selections": 65986,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 2.1",
             "ranking": 37,
-            "arena_elo": 745.65,
+            "arena_elo": 745.25,
             "arena_win_rate": 0.223,
             "selections": 66054,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "DeepSeek",
             "model_name": "Janus Pro",
             "ranking": 38,
-            "arena_elo": 725.47,
+            "arena_elo": 724.99,
             "arena_win_rate": 0.191,
             "selections": 3983,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         },
         {
             "creator": "Stability.ai",
             "model_name": "Stable Diffusion 1.5",
             "ranking": 39,
-            "arena_elo": 657.43,
+            "arena_elo": 657.02,
             "arena_win_rate": 0.155,
             "selections": 37092,
-            "update_time": 1742328761468
+            "update_time": 1742332291126
         }
     ]
 }
